@@ -20,6 +20,7 @@ public class Hashset_class {
 	Iterator it = hs.iterator();
 	while(it.hasNext()) {
 		System.out.println(it.next());
+		System.out.println("hii helloo vatavata");
 	}
 			
 		
